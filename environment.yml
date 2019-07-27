@@ -1,0 +1,6 @@
+name: python_example_linear_algegra_book
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
